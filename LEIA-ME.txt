@@ -1,0 +1,19 @@
+TREINO40 v5 — GUIAS VISUAIS + MUSCULAÇÃO + CORRIDA + HÁBITOS
+
+Esta versão inclui os 5 dias e 26 exercícios planejados, com ilustrações locais de movimento, mapa muscular e orientações detalhadas de postura, abdômen, respiração, músculos envolvidos e erros comuns. As figuras são ESQUEMÁTICAS e não substituem instrução presencial.
+
+INSTALAÇÃO
+1. Publique TODO o conteúdo do ZIP, incluindo a pasta guias/, em um único diretório HTTPS.
+2. Abra pelo Safari do iPhone > Compartilhar > Adicionar à Tela de Início.
+3. Abra uma vez online, espere carregar e teste offline em modo avião.
+4. Registre uma série de teste, feche e reabra e verifique a persistência.
+5. Faça backups JSON regulares pela aba Dados.
+
+PRESERVAÇÃO DE DADOS
+A chave de armazenamento local continua treino40_tracker_v1 e o backup v4 é compatível. Se atualizar um endereço já publicado, exporte JSON ANTES. Dados não sincronizam entre aparelhos.
+
+ATENÇÃO AO OMBRO
+Movimentos com dor não devem ser forçados; valide com fisioterapeuta os exercícios e amplitudes.
+
+CONTEÚDO
+index.html, sw.js, manifest.webmanifest, ícones e pasta guias/ com 47 ilustrações SVG locais.
